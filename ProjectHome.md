@@ -1,0 +1,1 @@
+Ce projet contient l'application qui découpe le fichier TXT en plusieurs fichiers XML
